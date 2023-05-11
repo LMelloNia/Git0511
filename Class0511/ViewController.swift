@@ -18,6 +18,10 @@ class ViewController: UIViewController {
         // C3
     }
 
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
 
+        // C5
+    }
 }
 
