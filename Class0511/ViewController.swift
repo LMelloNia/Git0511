@@ -8,9 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-    var a = 0
-    var b = 0
 
+    var a = 0
     
     override func viewDidLoad() {
         super.viewDidLoad()
